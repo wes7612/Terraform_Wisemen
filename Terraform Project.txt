@@ -1,7 +1,3 @@
-That’s a great idea! A practical project to apply your Terraform knowledge can help solidify your skills. Here's a project idea that brings together multiple DevOps concepts, including infrastructure automation with Terraform:
-
-### **Project: Build a Scalable Web Application Infrastructure**
-
 **Project Overview:**
 You'll create a full infrastructure for a web application, deploying it on a cloud provider (AWS, GCP, or OCI) using Terraform. The project can include networking, instances, databases, and monitoring, following DevOps practices.
 
