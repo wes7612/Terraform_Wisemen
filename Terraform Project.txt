@@ -32,6 +32,4 @@ You'll create a full infrastructure for a web application, deploying it on a clo
    - Implement **workspaces** and **variables** to handle different environments (development, production).
    - Apply **resource tagging** for cost management and organization.
 
-This project brings everything together in a practical and scalable way. You can start with the basics and build upon it as you progress.
-
-How does this sound to you? Would you like a specific cloud provider setup?
+T
